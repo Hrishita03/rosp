@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Sonakshi",
+    "picture": "images/Sonakshi.jpeg",
+      "age": 7,
+      "breed": "Loves to paint",
+    "location": "Juhu,Mumbai"
+  },
+  {
+    "id": 1,
+    "name": "Chetan",
+    "picture": "images/KidAdoption1.jpg",
+    "age": 3,
+    "breed": "Unknown",
+    "location": "Mumbai"
+  },
+  {
+    "id": 2,
+    "name": "Akash",
+    "picture": "images/KidAdoption2.jpg",
+    "age": 5,
+    "breed": "Belongs to a family of labourers",
+    "location": "Goregoan,Mumbai"
+  },
+  {
+    "id": 4,
+    "name": "Manish",
+    "picture": "images/KidAdoption3.jpg",
+    "age": 4,
+    "breed": "Found on the streets",
+    "location": "Khar,Mumbai"
+  },
+  {
+    "id": 4,
+    "name": "Karan",
+    "picture": "images/KidAdoption4.jpg",
+    "age": 5,
+    "breed": "Unknown",
+    "location": "Bandra,Mumbai"
+  },
+  {
+    "id": 5,
+    "name": "Nidhi",
+    "picture": "images/KidAdoption5.jpg",
+    "age": 3,
+    "breed": "Daughter of a deceased farmer",
+    "location": "Amboli,Mumbai"
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "images/KidAdoption6.jpg",
+    "age": 3,
+    "breed": "Abandoned by family",
+    "location": "Dharavi,Mumbai"
+  },
+  {
+    "id": 7,
+    "name": "Manisha",
+    "picture": "images/KidAdoption7.jpg",
+    "age": 3,
+    "breed": "Left by her parents",
+    "location": "Borivali,Mumbai"
+  },
+  {
+    "id": 8,
+    "name": "Ramit",
+    "picture": "images/KidAdoption8.jpg",
+    "age": 6,
+    "breed": "Rescuer of child labour",
+    "location": "Andheri,Mumbai"
+  },
+  {
+    "id": 9,
+    "name": "Pinky",
+    "picture": "images/KidAdoption9.jpg",
+    "age": 3,
+    "breed": "Unknown",
+    "location": "Dadar,Mumbai"
+  },
+  {
+    "id": 10,
+    "name": "Ram",
+    "picture": "images/KidAdoption10.jpg",
+    "age": 5,
+    "breed": "Worked in factories",
+    "location": "Matunga,Mumbai"
+  },
+  {
+    "id": 11,
+    "name": "Tina",
+    "picture": "images/KidAdoption11.jpg",
+    "age": 3,
+    "breed": "Child of beggars",
+    "location": "Ghatkopar,Mumbai"
+  },
+  {
+    "id": 12,
+    "name": "Mahesh",
+    "picture": "images/KidAdoption12.jpg",
+    "age": 2,
+    "breed": "Unknown",
+    "location": "Churchgate,Mumbai"
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "images/KidAdoption13.jpg",
+    "age": 4,
+    "breed": "Golden Retriever",
+    "location": "Sultana, Massachusetts"
+  },
+  {
+    "id": 14,
+    "name": "Karen",
+    "picture": "images/KidAdoption14.jpg",
+    "age": 4,
+    "breed": "Found by us",
+    "location": "Thane,Mumbai"
+  },
+  {
+    "id": 15,
+    "name": "Suman",
+    "picture": "images/KidAdoption15.jpg",
+    "age": 8,
+    "breed": "Enrolled herself",
+    "location": "Powai,Mumbai"
+  }
+]
